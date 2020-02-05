@@ -8,7 +8,7 @@ Input: A CSV file, which can be loaded into an array of array.
 Expected output: Comma separated strings of all permutations 
 Language: Python
 
-
+File name P1.py
 1.before running the file one has to install pandas libary for reading csv file
 2.for running the code use:
           P1.py path_of_the_input.csv
@@ -19,6 +19,7 @@ Language: Python
 
 
 ###3
+File name WordSuggestion.cpp
 Word Suggestion  
 Goal: Given a list of words (say dictionary) in a csv file along with its frequency. Take a word as input and suggest five closest words from the dictionary sorted in order of relevance. 
 Assume that the user is trying to type a dictionary word which they misspelled, and you have to suggest the correct word. 
