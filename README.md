@@ -10,8 +10,23 @@ Language: Python
 
 
 1.before running the file one has to install pandas libary for reading csv file
-for running the code use:
+2.for running the code use:
           P1.py path_of_the_input.csv
           
  output will be printed on the console
 
+
+
+
+###3
+Word Suggestion  
+Goal: Given a list of words (say dictionary) in a csv file along with its frequency. Take a word as input and suggest five closest words from the dictionary sorted in order of relevance. 
+Assume that the user is trying to type a dictionary word which they misspelled, and you have to suggest the correct word. 
+Language: Any
+
+It is made using in BK tree data structure using Levianthan distance as the metric
+
+
+Steps to run
+1.for running the program 
+       P_2.exe path misspelled_word 
