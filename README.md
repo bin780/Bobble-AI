@@ -11,5 +11,7 @@ Language: Python
 
 1.before running the file one has to install pandas libary for reading csv file
 for running the code use:
-          P1.py 'input.csv'
+          P1.py path_of_the_input.csv
+          
+ output will be printed on the console
 
